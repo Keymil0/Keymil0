@@ -7,11 +7,13 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Keymil0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_seconds=3600" height="165" alt="streak graph" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Keymil0&theme=dracula&show_icons=true&hide_border=false&count_private=true&rank_icon=github" height="165" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keymil0&theme=dracula" height="165" alt="github stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keymil0&theme=dracula&hide_border=false&layout=compact&langs_count=8" height="130" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keymil0&theme=dracula" height="130" alt="top languages by commit" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keymil0&theme=dracula" height="130" alt="top languages by repo" />
 </div>
 
 ###
