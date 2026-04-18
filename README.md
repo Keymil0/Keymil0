@@ -5,15 +5,17 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Keymil0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_seconds=3600" height="165" alt="streak graph" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keymil0&theme=dracula" height="165" alt="github stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keymil0&theme=dracula" height="130" alt="top languages by commit" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keymil0&theme=dracula" height="130" alt="top languages by repo" />
+  <table border="0" cellspacing="0" cellpadding="6">
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=Keymil0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_seconds=3600" alt="streak graph" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keymil0&theme=dracula" alt="github stats" /><br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keymil0&theme=dracula" alt="top languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
