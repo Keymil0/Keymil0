@@ -5,17 +5,19 @@
 ###
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="6">
-    <tr>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=Keymil0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_seconds=3600" alt="streak graph" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keymil0&theme=dracula" alt="github stats" /><br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keymil0&theme=dracula" alt="top languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=Keymil0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_seconds=3600" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Keymil0&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" width="100%" alt="trophies" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keymil0&theme=dracula&area=true&hide_border=false" width="100%" alt="activity graph" />
 </div>
 
 ###
