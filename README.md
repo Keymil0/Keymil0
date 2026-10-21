@@ -2,6 +2,6 @@
 
 ##### Student
 
-- 🐧 Dual booting **Arch Linux** and **Windows**
-- 🌍 Off-screen: watching movies, learning languages, self-hosting
+- 🐧 **Arch Linux**
+- 🌍 Off-screen: watching movies, learning languages, aviation & flight sims
 - 📫 Reach me: kamilmarek009@gmail.com
